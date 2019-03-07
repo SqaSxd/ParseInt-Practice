@@ -1,0 +1,26 @@
+.allInput{
+    display: flex;
+    justify-content: center;
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+}
+
+.userInput{
+    border: 5px solid blue;
+    margin: 5px;
+    padding: 15px;
+}
+
+.answer{
+    border: 5px solid red;
+    margin: 5px;
+    padding: 15px;
+}
+
+button{
+    padding: 5px;
+    margin: 5px;
+}
